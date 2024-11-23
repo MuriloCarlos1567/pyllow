@@ -7,6 +7,8 @@
 
 Whether you are testing API endpoints, performing stress tests, or automating request sequences, Pyllow simplifies the process by abstracting the complexities involved in making HTTP requests at scale.
 
+**Note:** Pyllow should not be used for DDoS. Pull requests sent with the intention of promoting this use will be denied.
+
 ## Features
 
 - **Mass Request Simulation**: Send a large number of HTTP requests (GET, POST, etc.) with customizable payloads and parameters.
